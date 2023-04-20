@@ -56,6 +56,7 @@ you're doing, or it will break the display of the authors.
 {% for other in author.other_info %}
 <p>{{other[0]}}: {{other[1]}}</p>
 {% endfor %}
+{{ author.email }}
 </div>
 </article>
 {%endfor%}
