@@ -1,22 +1,24 @@
 Tutorials:
   - script: 
-    title: Tutorial 0 -- Setting up your computer for scientific programming.
-    filename: t0a_setting_up_python.html
+    title: Tutorial 0.0 -- A Primer On Jupyter Notebooks and Google Colab
+    colab: "https://colab.research.google.com/drive/1uqIm6CJ2FcbYsJ29lCwOefdn-6Nyc5ch?usp=sharing"
     description: >
-      This tutorial walks you through the basics of installing and setting up
-      Python 3.7 on your computer for sicentific programming. 
-    links:
-      Jupyter Notebook: t0a_setting_up_python.ipynb
-      In Class Version: t0a_in_class.ipynb
+      This tutorial explains what a Jupyter Notebook is and how to use it on Google Colab.
+  - script: 
+    title: Tutorial 0.1 -- A Primer On Python Syntax
+    colab: "https://colab.research.google.com/drive/1Jvi1pCsQ2yjmSwcNRp1K3YsG_DDvcKEA?usp=sharing"
+    description: >
+      This tutorial gives a quick intro to programming in Python. 
+
 
 Exercises:
-  - script: 
-    title: Exercise 1 -- Simulating Diffusion
-    filename: t0a_setting_up_python.html
+  - script:
+    title: Tutorial 1 -- Basic Image Processing and Counting Elephants from Space
+    colab: "https://colab.research.google.com/drive/1gIn60FuuoM6daLyBIDalmng483TiQYbk?usp=sharing" 
     description: >
-      In this exercise, you will use random number generation to simulate a
-      random walk in 1 dimension and compare the results of your simulation to
-      analytic solutions for the diffusion equation. 
+      In this exercise, we learn some simple techniques of quantitative image processing and try to count elephants in two satellite images. 
     links:
-      Jupyter Notebook: t0a_setting_up_python.ipynb
-      Solutions : t0a_in_class.ipynb
+      #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
+      Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants1.jpg"
+      Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants2.jpg"
+    
