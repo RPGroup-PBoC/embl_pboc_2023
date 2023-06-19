@@ -17,9 +17,46 @@
   institute: Caltech
 
 - author:
+  name: Jane Kondev
+  title: Instructor
+  img: kondev.jpg
+  email: "kondev [at] brandeis [dot] edu"
+  institute: Brandeis
+
+- author:
   name: Tom Röschinger
   img: troeschi.jpg
   title: TA 
   email: tom [at] caltech [dot] edu
   institute: Caltech
 
+- speaker:
+  name: Aleksandra Walczak 
+  img: aleks.jpg
+  day: Monday
+  institute: Ecole Normale Supérieure
+
+- speaker:
+  name: Pierre Sens
+  img: pierre.jpg
+  day: Tuesday
+  institute: Institut Curie
+
+- speaker:
+  name: Erwin Frey
+  img: erwin.jpg
+  day: Wednesday
+  institute: LMU München
+
+- speaker:
+  name: Anna Erzberger
+  img: erzberger.jpg
+  day: Thursday
+  institute: EMBL
+
+- speaker:
+  name: Thomas Lecuit
+  img: thomas.jpg
+  day: Friday
+  institute: Aix-Marseille Université
+  
