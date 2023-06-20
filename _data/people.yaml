@@ -9,6 +9,7 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
+  role: instructor
   name: Rob Phillips
   link: "https://www.rpgroup.caltech.edu/"
   title: Instructor
@@ -17,6 +18,7 @@
   institute: Caltech
 
 - author:
+  role: instructor
   name: Jane Kondev
   title: Instructor
   img: kondev.jpg
@@ -24,37 +26,43 @@
   institute: Brandeis
 
 - author:
+  role: instructor
   name: Tom Röschinger
   img: troeschi.jpg
   title: TA 
   email: tom [at] caltech [dot] edu
   institute: Caltech
 
-- speaker:
+- author:
+  role: speaker
   name: Aleksandra Walczak 
   img: aleks.jpg
   day: Monday
   institute: Ecole Normale Supérieure
 
-- speaker:
+- author:
+  role: speaker
   name: Pierre Sens
   img: pierre.jpg
   day: Tuesday
   institute: Institut Curie
 
-- speaker:
+- author:
+  role: speaker
   name: Erwin Frey
   img: erwin.jpg
   day: Wednesday
   institute: LMU München
 
-- speaker:
+- author:
+  role: speaker
   name: Anna Erzberger
   img: erzberger.jpg
   day: Thursday
   institute: EMBL
 
-- speaker:
+- author:
+  role: speaker
   name: Thomas Lecuit
   img: thomas.jpg
   day: Friday

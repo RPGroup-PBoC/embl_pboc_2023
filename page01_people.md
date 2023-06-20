@@ -18,7 +18,7 @@ you're doing, or it will break the display of the authors.
 -->
 
 
-
+## Instructors
 <!-- Loop through each author in the data file -->
 {% for author in site.data.people %}
 <!-- Define a new "article" environment, which is the object with author info -->
@@ -39,7 +39,7 @@ you're doing, or it will break the display of the authors.
 {% endif %}
 
 <!-- Populate the author fields --> 
-
+{% if author.role == instructor %}
  <a class="post-thumbnail" style="background-image: url({{site.baseurl}}/assets/img/people/{{pic}})" href="{{website}}"></a>
 
 <!-- Populate the author environment with the information -->
@@ -60,3 +60,48 @@ you're doing, or it will break the display of the authors.
 </div>
 </article>
 {%endfor%}
+{% endif %}
+
+## Speakers - Each day at 4pm
+<!-- Loop through each author in the data file -->
+{% for author in site.data.people %}
+<!-- Define a new "article" environment, which is the object with author info -->
+<article class="post">
+
+<!-- Determine if an image is provided for the author, if not use a silhouette -->
+{% if author.img %}
+{% assign pic = author.img %}
+{% else %}
+{% assign pic = "noimg.jpg" %}
+{% endif %}
+
+<!-- Determine if a website is associated with the author, if not use a blank-->
+{% if author.link %}
+{% assign website = author.link %}
+{% else %}
+{% assign website = " " %}
+{% endif %}
+
+<!-- Populate the author fields --> 
+{% if author.role == speaker %}
+ <a class="post-thumbnail" style="background-image: url({{site.baseurl}}/assets/img/people/{{pic}})" href="{{website}}"></a>
+
+<!-- Populate the author environment with the information -->
+<div class="post-content">
+{% if author.link %}
+<a href="{{author.link}}"><b class="post-title">{{author.name}}</b></a>
+{% else %}
+<b class="post-title">{{author.name}}</b>
+{% endif %}
+<p>{{author.title}}</p>
+{% if author.institute %}
+<p>{{author.institute}}</p>
+{% endif %}
+{% for other in author.other_info %}
+<p>{{other[0]}}: {{other[1]}}</p>
+{% endfor %}
+{{ author.email }}
+</div>
+</article>
+{%endfor%}
+{% endif %}
