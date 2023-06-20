@@ -59,8 +59,9 @@ you're doing, or it will break the display of the authors.
 {{ author.email }}
 </div>
 </article>
-{%endfor%}
 {% endif %}
+{%endfor%}
+
 
 ## Speakers - Each day at 4pm
 <!-- Loop through each author in the data file -->
@@ -83,7 +84,7 @@ you're doing, or it will break the display of the authors.
 {% endif %}
 
 <!-- Populate the author fields --> 
-{% if author.role == speaker %}
+{% if author.role == "speaker" %}
  <a class="post-thumbnail" style="background-image: url({{site.baseurl}}/assets/img/people/{{pic}})" href="{{website}}"></a>
 
 <!-- Populate the author environment with the information -->
@@ -103,5 +104,5 @@ you're doing, or it will break the display of the authors.
 {{ author.email }}
 </div>
 </article>
-{%endfor%}
 {% endif %}
+{%endfor%}
