@@ -21,9 +21,19 @@
   role: instructor
   name: Jane Kondev
   title: Instructor
+  link: "https://people.brandeis.edu/~kondev/"
   img: kondev.jpg
   email: "kondev [at] brandeis [dot] edu"
   institute: Brandeis
+
+- author:
+  role: instructor
+  name: Hernan Garcia
+  link: "http://garcialab.berkeley.edu/"
+  title: Instructor
+  img: hernan.jpg
+  email: "hggarcia [at] berkeley [dot] edu"
+  institute: UC Berkeley
 
 - author:
   role: instructor

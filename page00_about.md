@@ -32,7 +32,7 @@ Each day, the course will roughly proceed as outlined below. On occasion, we may
 </tr>
 <tr>
     <td>09h00 - 12h30</td>
-    <td>Rob/Jane lecture (with coffee break) </td>
+    <td>lecture (with coffee break) </td>
 </tr>
 <tr>
     <td>12h30 - 14h00</td>
@@ -40,7 +40,7 @@ Each day, the course will roughly proceed as outlined below. On occasion, we may
 </tr>
 <tr>
     <td>14h00 - 16h00</td>
-    <td>Rob/Jane lecture </td>
+    <td>lecture </td>
 </tr>
 <tr>
     <td>16h00 - 18h00</td>
