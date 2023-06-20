@@ -21,6 +21,7 @@ you're doing, or it will break the display of the authors.
 ## Instructors
 <!-- Loop through each author in the data file -->
 {% for author in site.data.people %}
+{% if author.role == "instructor" %}
 <!-- Define a new "article" environment, which is the object with author info -->
 <article class="post">
 
@@ -39,7 +40,7 @@ you're doing, or it will break the display of the authors.
 {% endif %}
 
 <!-- Populate the author fields --> 
-{% if author.role == instructor %}
+
  <a class="post-thumbnail" style="background-image: url({{site.baseurl}}/assets/img/people/{{pic}})" href="{{website}}"></a>
 
 <!-- Populate the author environment with the information -->
@@ -63,9 +64,11 @@ you're doing, or it will break the display of the authors.
 {%endfor%}
 
 
-## Speakers - Each day at 4pm
+## Speakers
+
 <!-- Loop through each author in the data file -->
 {% for author in site.data.people %}
+{% if author.role == "speaker" %}
 <!-- Define a new "article" environment, which is the object with author info -->
 <article class="post">
 
@@ -84,7 +87,7 @@ you're doing, or it will break the display of the authors.
 {% endif %}
 
 <!-- Populate the author fields --> 
-{% if author.role == "speaker" %}
+
  <a class="post-thumbnail" style="background-image: url({{site.baseurl}}/assets/img/people/{{pic}})" href="{{website}}"></a>
 
 <!-- Populate the author environment with the information -->
@@ -102,6 +105,9 @@ you're doing, or it will break the display of the authors.
 <p>{{other[0]}}: {{other[1]}}</p>
 {% endfor %}
 {{ author.email }}
+{% if author.day %}
+<p>Day presenting: {{author.day}}</p>
+{% endif %}
 </div>
 </article>
 {% endif %}
