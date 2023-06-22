@@ -32,23 +32,23 @@ Each day, the course will roughly proceed as outlined below. On occasion, we may
 </tr>
 <tr>
     <td>09h00 - 12h30</td>
-    <td>lecture (with coffee break) </td>
+    <td>Lecture (with coffee break) </td>
 </tr>
 <tr>
     <td>12h30 - 14h00</td>
-    <td>lunch</td>
+    <td>Lunch</td>
 </tr>
 <tr>
     <td>14h00 - 16h00</td>
-    <td>lecture </td>
+    <td>Lecture </td>
 </tr>
 <tr>
     <td>16h00 - 18h00</td>
-    <td>guest speaker and meet the speaker </td>
+    <td>Guest Speaker and Meet the Speaker </td>
 </tr>
 <tr>
     <td>18h00 - 19h30</td>
-    <td>dinner</td>
+    <td>Dinner</td>
 </tr>
 <tr>
     <td>19h30 - 21h30</td>
