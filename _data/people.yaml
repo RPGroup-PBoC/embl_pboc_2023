@@ -66,15 +66,17 @@
 
 - author:
   role: speaker
-  name: Anna Erzberger
-  img: erzberger.jpg
+  name: Thomas Lecuit
+  img: thomas.jpg
   day: Thursday
-  institute: EMBL
+  institute: Aix-Marseille Université
 
 - author:
   role: speaker
-  name: Thomas Lecuit
-  img: thomas.jpg
+  name: Anna Erzberger
+  img: erzberger.jpg
   day: Friday
-  institute: Aix-Marseille Université
+  institute: EMBL
+
+
   
