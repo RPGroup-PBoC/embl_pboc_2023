@@ -35,11 +35,11 @@ Each day, the course will roughly proceed as outlined below. On occasion, we may
     <td>Lecture (with coffee break) </td>
 </tr>
 <tr>
-    <td>12h30 - 14h00</td>
+    <td>12h30 - 13h30</td>
     <td>Lunch</td>
 </tr>
 <tr>
-    <td>14h00 - 16h00</td>
+    <td>13h30 - 16h00</td>
     <td>Lecture </td>
 </tr>
 <tr>
@@ -47,11 +47,11 @@ Each day, the course will roughly proceed as outlined below. On occasion, we may
     <td>Guest Speaker and Meet the Speaker </td>
 </tr>
 <tr>
-    <td>18h00 - 19h30</td>
+    <td>18h00 - 19h00</td>
     <td>Dinner</td>
 </tr>
 <tr>
-    <td>19h30 - 21h30</td>
+    <td>19h00 - 21h00</td>
     <td>Computational Session with Tom</td>
 </tr>
 </table>
