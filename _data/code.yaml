@@ -21,13 +21,14 @@ Exercises:
       #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
       Elephant Image 1: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants1.jpg"
       Elephant Image 2: "http://rpgroup.caltech.edu/cshl_pboc_2023/datasets/Elephants2.jpg"
-
+      Template: "https://colab.research.google.com/drive/1SJ4EaZ2cwcLjQFD4ctbAzwcPUPENIB0d?usp=sharing"
   - script:
     title: Tutorial 2 -- Integrating Differential Equations
     #colab: "https://colab.research.google.com/drive/1gIn60FuuoM6daLyBIDalmng483TiQYbk?usp=sharing" 
     description: >
       In this exercise, we learn how to use numerical methods of solving differential equations by forward integration.
     links:
+      Template: "https://colab.research.google.com/drive/1SJ4EaZ2cwcLjQFD4ctbAzwcPUPENIB0d?usp=sharing"
       #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
 
   - script:
