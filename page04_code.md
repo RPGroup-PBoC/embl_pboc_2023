@@ -21,9 +21,7 @@ sessions here.
 {% for topic in site.data.code %}
 # {{topic[0]}}
 {% for script in topic[1] %}
-
-* {%if script.colab %}{%if script.colab %}<a href="{{script.colab}}" target="_blank">**{{script.title}}**</a>
-  {%else%}**{{script.title}}**{%endif%}\|
+* {%if script.colab %}<a href="{{script.colab}}" target="_blank">**{{script.title}}**</a>{%else%}**{{script.title}}**{%endif%}\|
   {{script.description}}   {%if script.links %} <br/>  {%for l in script.links
   %} <i> <a href="{{l[1]}}" target="_blank">**{{l[0]}}**</a> </i> <br/>{%endfor%}   {%endif%}
 {%endfor%}
