@@ -7,3 +7,10 @@ Day 1:
    description: >
       This very influential paper discusses the importance of different levels of reductionism when thinking of problems at various scales.
 
+  - pub: 
+   title: Street-Fighting mathematics.
+   authors: Sanjoy Mahajan.
+   year: 2010
+   link: Street-Fighting_Mathematics.pdf
+   description: >
+      Rules for making estimates. Chapter 5 goes through the mathematics of using one and few. Punch your opponent in the mouth while they are discussing the rules.
