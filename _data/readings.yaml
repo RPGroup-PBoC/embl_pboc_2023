@@ -14,3 +14,11 @@ Day 1:
    link: Street-Fighting_Mathematics.pdf
    description: >
       Rules for making estimates. Chapter 5 goes through the mathematics of using one and few. Punch your opponent in the mouth while they are discussing the rules.
+
+ - pub: 
+   title: The quantitative and condition-dependent Escherichia coli proteome.
+   authors: Schmidt et al.
+   year: 2016
+   link: schmidt2016.pdf
+   description: >
+      Mass-spec study of <i>E. coli</i>, counting the abundance of every protein per cell across a set of varying growth conditions.
