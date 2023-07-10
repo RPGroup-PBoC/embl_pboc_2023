@@ -8,3 +8,13 @@
 #  title: Nextstrain. 
 #  address: "https://nextstrain.org/ncov"
 #  description: Tracking SARS-CoV-2 genomic variations by location.
+
+- link:
+  title: BioNumbers. 
+  address: "https://bionumbers.hms.harvard.edu/search.aspx"
+  description: Database of useful biological numbers.
+
+- link:
+  title: Human Impacts Database. 
+  address: "http://www.anthroponumbers.org/catalog/"
+  description: A collection of useful numbers for quantifying the impacts of the human presence on Earth.
