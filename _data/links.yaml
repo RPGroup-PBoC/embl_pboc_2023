@@ -24,3 +24,12 @@
   address: "https://www.flukebook.org/"
   description: Facebook for whales. Database for tracking and description of whales in the wild.
 
+- link:
+  title: The Serengeti Rules - Book. 
+  address: "https://press.princeton.edu/books/paperback/9780691175683/the-serengeti-rules"
+  description: An amazing documentary about five pioneer scientists that discovered the importance of keystone species.
+
+- link:
+  title: The Serengeti Rules - Movie. 
+  address: "https://www.imdb.com/title/tt6838670/"
+  description: An amazing documentary about five pioneer scientists that discovered the importance of keystone species.

@@ -30,3 +30,13 @@ Day 1:
    link: hughey2017.pdf
    description: >
       Review on tracking behavior of animals on all different scales, from funghi to fish to wildebeest.
+
+ - pub: 
+   title: Challenges and solutions for studying collective animal behaviour in the wild.
+   authors: Sinclair et al.
+   year: 2003
+   link: sinclair2003.pdf
+   description: >
+      An amazing paper about the correlation of herbivores sizes and their state of predation, e.g., the number of predators and percentage of animals killed by predation.
+
+      
