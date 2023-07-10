@@ -22,3 +22,11 @@ Day 1:
    link: schmidt2016.pdf
    description: >
       Mass-spec study of <i>E. coli</i>, counting the abundance of every protein per cell across a set of varying growth conditions.
+
+ - pub: 
+   title: Challenges and solutions for studying collective animal behaviour in the wild.
+   authors: Hughey et al.
+   year: 2017
+   link: hughey2017.pdf
+   description: >
+      Review on tracking behavior of animals on all different scales, from funghi to fish to wildebeest.
