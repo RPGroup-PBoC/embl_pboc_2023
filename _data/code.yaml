@@ -29,7 +29,7 @@ Exercises:
       In this exercise, we learn how to use numerical methods of solving differential equations by forward integration.
     links:
       E. coli microscopy images: "http://rpgroup.caltech.edu/embl_pboc_2023/datasets/ecoli_growth.zip"
-      Template: "https://colab.research.google.com/drive/1SJ4EaZ2cwcLjQFD4ctbAzwcPUPENIB0d?usp=sharing"
+      Template: "https://colab.research.google.com/drive/1BXhTuOmzgZiWdaN9-LEWkKykLrVFpU45?usp=sharing"
       #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
 
   - script:
