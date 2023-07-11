@@ -47,4 +47,12 @@ Day 1:
    description: >
       A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
 
+Day 2:
+ - pub:
+   title: An Application of the Poisson Distribution
+   authors: R. D. Clarke
+   year: 1946
+   link: london_bombs.pdf
+   description: >
+     A study of how often neighborhoods in London were hit by bombs during the second world war.
       
