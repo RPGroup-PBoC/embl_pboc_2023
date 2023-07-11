@@ -55,4 +55,12 @@ Day 2:
    link: london_bombs.pdf
    description: >
      A study of how often neighborhoods in London were hit by bombs during the second world war.
+
+ - pub:
+   title: An Application of the Poisson Distribution
+   authors: Peter Buri
+   year: 1956
+   link: buri1956.pdf
+   description: >
+     An experiment about genetic drift. A heterozygotic population of flies with orange eyes is mated randomly for more than 100 generations and the populations end up being either all red or all white. 
       
