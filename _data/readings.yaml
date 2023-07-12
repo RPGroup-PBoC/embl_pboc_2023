@@ -64,3 +64,20 @@ Day 2:
    description: >
      An experiment about genetic drift. A heterozygotic population of flies with orange eyes is mated randomly for more than 100 generations and the populations end up being either all red or all white. 
       
+
+Day 3:
+ - pub:
+   title: The great ideas of biology
+   authors: Sir Paul Nurse
+   year: 2003
+   link: nurse2003.pdf
+   description: >
+     A description of the great ideas of biology, such as the concept of cells, genes as the mechanisms of heredity and subsequently evolution as well as life as chemistry.
+
+  - pub:
+   title: Nothing in Biology makes Sense but in the Light of Evolution
+   authors: Theodosius Dobzhansky 
+   year: 1972
+   link: nothing_sense.pdf
+   description: >
+     
