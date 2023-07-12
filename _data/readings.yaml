@@ -103,3 +103,27 @@ Day 3:
    link: flagella_length_control.pdf
    description: >
      An amazing experiment about length control of flagella in the organism <i>Chlamydomonas reinhardtii</i>. One flagella was cut using lasers and the recovery of its length.
+
+ - pub:
+   title: "Wave Propagation along Flagella"
+   authors: K. E. MACHIN
+   year: 1958
+   link: flagella_shape.pdf
+   description: >
+     A study of the different types of bending for flagella of sperms shows that these flagella have to contain active elements instead of being passive elements whose motion is driven by a motor at the base.
+
+ - pub:
+   title: "Asymmetric distribution and spatial switching of dynein activity generates ciliary motility"
+   authors: Jianfeng Lin and Daniela Nicastro
+   year: 2018
+   link: nicastro2018.pdf
+   description: >
+     A time-resolved Cryo-EM study of moving flagella showing how the activity of the active elements depends on the shape of the flagella, as predicted in the Machin paper.
+
+ - pub:
+   title: "Yeast kinesin-8 depolymerizes microtubules in a length-dependent manner"
+   authors: Varga et al.
+   year: 2006
+   link: varga2006.pdf
+   description: >
+     Motors walking down a mictrotubule destabilize the microtubule, therefore, actively controlling the length of the microtubule.
