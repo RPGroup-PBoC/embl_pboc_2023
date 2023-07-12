@@ -88,3 +88,10 @@ Day 3:
    link: whale_size.pdf
    description: >
      
+ - pub:
+   title: "Patterning and growth control in vivo by an engineered GFP gradient"
+   authors: Stapornwongkul et al.
+   year: 2020
+   link: gfp_morphogen.pdf
+   description: >
+     A group designed a receptor to recognize GFP as a morphogen in development of drosophila embryos.
