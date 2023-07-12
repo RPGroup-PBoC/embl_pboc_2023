@@ -127,3 +127,14 @@ Day 3:
    link: varga2006.pdf
    description: >
      Motors walking down a mictrotubule destabilize the microtubule, therefore, actively controlling the length of the microtubule.
+
+ - pub:
+   title: "Key biology you should have learned in physics class: Using ideal-gas mixtures to understand biomolecular machines"
+   authors: Daniel M Zuckerman.
+   year: 2020
+   link: zuckerman2020.pdf
+   description: >
+     Discussion of sugar transporters using elementary ideas of statistical mechanics.
+
+
+     
