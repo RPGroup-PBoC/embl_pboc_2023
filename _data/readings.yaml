@@ -95,3 +95,11 @@ Day 3:
    link: gfp_morphogen.pdf
    description: >
      A group designed a receptor to recognize GFP as a morphogen in development of drosophila embryos.
+
+ - pub:
+   title: "Organelle Size Equalization by a Constitutive Process"
+   authors: Ludington et al.
+   year: 2012
+   link: flagella_length_control.pdf
+   description: >
+     An amazing experiment about length control of flagella in the organism <i>Chlamydomonas reinhardtii</i>. One flagella was cut using lasers and the recovery of its length.
