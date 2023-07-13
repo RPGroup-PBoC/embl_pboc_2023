@@ -137,4 +137,11 @@ Day 3:
      Discussion of sugar transporters using elementary ideas of statistical mechanics.
 
 
-     
+Day 4:
+ - pub:
+   title: "Mechanism of transcriptional repression at a bacterial promoter by analysis of single molecules"
+   authors: Sanchez et al.
+   year: 2011
+   link: sanchez2011.pdf
+   description: >
+     Single-molecule fluorescence microscopy is used to study how the lac repressor inhibits expression when binding to DNA
