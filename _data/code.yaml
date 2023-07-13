@@ -23,21 +23,16 @@ Exercises:
       Elephant Image 2: "http://rpgroup.caltech.edu/embl_pboc_2023/datasets/Elephants2.jpg"
       Template: "https://colab.research.google.com/drive/1SJ4EaZ2cwcLjQFD4ctbAzwcPUPENIB0d?usp=sharing"
   - script:
-    title: Tutorial 2 -- Integrating Differential Equations
-    #colab: "https://colab.research.google.com/drive/1gIn60FuuoM6daLyBIDalmng483TiQYbk?usp=sharing" 
+    title: Tutorial 2 -- Integrating Differential Equations - mRNA production
+    colab: "https://colab.research.google.com/drive/1Lg0HKBgAo83DrUV1MNLqP3psfJp5u1HJ?usp=sharing" 
     description: >
       In this exercise, we learn how to use numerical methods of solving differential equations by forward integration.
-    links:
-      E. coli microscopy images: "http://rpgroup.caltech.edu/embl_pboc_2023/datasets/ecoli_growth.zip"
-      Template: "https://colab.research.google.com/drive/1BXhTuOmzgZiWdaN9-LEWkKykLrVFpU45?usp=sharing"
-      Template 2: "https://colab.research.google.com/drive/1zU_CKN-wed4n_Xl0ziJM_aIHYpNOgiZ9?usp=sharing"
-      #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
 
   - script:
-    title: Tutorial 3 -- Diffusion and Random Walks
-    #colab: "https://colab.research.google.com/drive/1gIn60FuuoM6daLyBIDalmng483TiQYbk?usp=sharing" 
+    title: Tutorial 3 -- Gillespie Algorithm
+    colab: "https://colab.research.google.com/drive/1rw2xNihT0CfaH__gPCkp5jW-boSGfyX3?usp=sharing" 
     description: >
-      Through stochastic simulations, we explore how diffusion can be understood as a random walk. 
+      In this session we derived Gillespie algorithm and use it to explore the Ligand-Receptor model. 
     links:
       #In-Class Code: "https://colab.research.google.com/drive/15dg4M7gWi7BpTtbcKKK2yTD43y1EycN_?usp=sharing"
 
