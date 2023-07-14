@@ -178,3 +178,11 @@ Day 5:
    link: hynman2014.pdf
    description: >
      A theoretical and mathematical description of phase separation.
+
+ - pub:
+   title: "Polymer physics of intracellular phase transitions"
+   authors: Clifford P. Brangwynne, Peter Tompa & Rohit V. Pappu
+   year: 2015
+   link: brangwynne2015.pdf
+   description: >
+     A theoretical discussion of phase transitions using the Flory–Huggins free energy.
