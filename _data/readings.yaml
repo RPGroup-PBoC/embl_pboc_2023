@@ -170,4 +170,11 @@ Day 5:
    link: pgranules.pdf
    description: >
      Discovery of liquid like droplets in <i>C. elegans</i> embryos formed by RNA and RNA-binding proteins.
-    
+   
+ - pub:
+   title: "Liquid-Liquid Phase Separation in Biology"
+   authors: Anthony A. Hyman, Christoph A. Weber & Frank J/"ulicher 
+   year: 2014
+   link: hynman2014.pdf
+   description: >
+     A theoretical and mathematical description of phase separation.
