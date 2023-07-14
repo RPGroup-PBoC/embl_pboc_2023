@@ -48,3 +48,9 @@
   title: Github template for reproducible research
   address: "https://github.com/gchure/reproducible_research"
   description: A template for Github repositories, making it easier to keep organized and allow other scientist to reproduce your results.
+
+- link:
+  title: "Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University"
+  address: "https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V"
+  description:
+  
