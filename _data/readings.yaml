@@ -163,3 +163,11 @@ Day 5:
    description: >
      Synthetic gene circuit of three repressors that leads to oscillation in the expression levels of fluorescent proteins.
     
+ - pub:
+   title: "Germline P Granules Are Liquid Droplets That Localize by Controlled Dissolution/Condensation"
+   authors: Brangwynne et al.
+   year: 2009
+   link: pgranules.pdf
+   description: >
+     Discovery of liquid like droplets in <i>C. elegans</i> embryos formed by RNA and RNA-binding proteins.
+    
