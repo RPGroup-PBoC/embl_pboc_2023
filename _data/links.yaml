@@ -44,5 +44,7 @@
   address: "https://www.youtube.com/@physicalbiologyofthecellca307/videos"
   description: A set of vignettes recorded for the class Aph161 at Caltech.
 
-  
-  
+- link:
+  title: Github template for reproducible research
+  address: "https://github.com/gchure/reproducible_research"
+  description: A template for Github repositories, making it easier to keep organized and allow other scientist to reproduce your results.
