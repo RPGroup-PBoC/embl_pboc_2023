@@ -53,4 +53,9 @@
   title: "Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University"
   address: "https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V"
   description:
+
+- link: 
+  title: "Introduction to Data Analysis in the Biological Sciences"
+  address: "https://bebi103a.github.io/"
+  description: Caltech course taught by Justin Bois about how to use Python as a tool in biological sciences. 
   
