@@ -155,11 +155,11 @@ Day 5:
    description: >
      Construction of the first synthetic genetic toggle switch using a system of two repressors that repress each other.
 
-  - pub:
-    title: "A synthetic oscillatory network of transcriptional regulators"
-    authors: Michael Ellowitz & Stanislas Leibler
-    year: 2000
-    link: repressilator.pdf
-    description: >
-      Synthetic gene circuit of three repressors that leads to oscillation in the expression levels of fluorescent proteins.
-      
+ - pub:
+   title: "A synthetic oscillatory network of transcriptional regulators"
+   authors: Michael Ellowitz & Stanislas Leibler
+   year: 2000
+   link: repressilator.pdf
+   description: >
+     Synthetic gene circuit of three repressors that leads to oscillation in the expression levels of fluorescent proteins.
+    
