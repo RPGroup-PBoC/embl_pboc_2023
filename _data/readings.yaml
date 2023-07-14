@@ -145,3 +145,21 @@ Day 4:
    link: sanchez2011.pdf
    description: >
      Single-molecule fluorescence microscopy is used to study how the lac repressor inhibits expression when binding to DNA
+
+Day 5:
+ - pub:
+   title: "Construction of a genetic toggle switch in <i>Escherichia coli</i>"
+   authors: Timothy S. Gardner, Charles R. Cantor & James J. Collins
+   year: 2000
+   link: toggle_switch.pdf
+   description: >
+     Construction of the first synthetic genetic toggle switch using a system of two repressors that repress each other.
+
+  - pub:
+    title: "A synthetic oscillatory network of transcriptional regulators"
+    authors: Michael Ellowitz & Stanislas Leibler
+    year: 2000
+    link: repressilator.pdf
+    description: >
+      Synthetic gene circuit of three repressors that leads to oscillation in the expression levels of fluorescent proteins.
+      
